@@ -1,7 +1,4 @@
-<h1 align="center">하루하루 성장하고 있는 개발자 꿈나무, 박승주 입니다. 👋</h2>
-<hr/>
-<h3 align="center">관심 있어하는 언어</h4>
-
+### 넓은 우주에 내 흔적 하나라도 남기자!
 <p align="center">
   <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=WebGL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
