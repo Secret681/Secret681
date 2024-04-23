@@ -4,6 +4,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,mysql,git,GraphQL&includeNames=true&theme=darkmode)](https://github.com/Secret681/github-widgetbox)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode,eclipse)](https://github.com/Secret681/github-widgetbox)
 
-<h3 align="left">사용하는 
+<h2 align="left">🚀사용하는 툴</h2>
 
