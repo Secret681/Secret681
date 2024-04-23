@@ -6,5 +6,5 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=darkmode)](https://github.com/Secret681/github-widgetbox)
 
-<h2 align="left">🚀사용하는 툴</h2>
+<h2 align="left">📝certificate</h2>
 
