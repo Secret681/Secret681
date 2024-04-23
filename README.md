@@ -2,7 +2,7 @@
 
 <h2 align="left">👨‍💻관심있는 언어</h2>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,mysql,Glsl&includeNames=true&theme=darkmode)](https://github.com/Secret681/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,mysql&includeNames=true&theme=darkmode)](https://github.com/Secret681/github-widgetbox)
 
 
 <h3 align="left">사용하는 
