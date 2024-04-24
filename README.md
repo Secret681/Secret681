@@ -11,18 +11,13 @@
    ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret681&theme=dark&hide_border=false&layout=compact)
 
 <h2>👨‍💻MY Skills</h2>
-<style>
-    img {
-        display: inline;
-    }
-</style>
 
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="MySQL" width="60" height="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" alt="Git" width="60" height="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="HTML" width="60" height="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" alt="JavaScript" width="60" height="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" alt="Python" width="60" height="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/linux.svg" alt="Linux" width="60" height="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="MySQL" width="60" height="60"><br>
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" alt="Git" width="60" height="60"><br>
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="HTML" width="60" height="60"><br>
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" alt="JavaScript" width="60" height="60"><br>
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" alt="Python" width="60" height="60"><br>
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/linux.svg" alt="Linux" width="60" height="60"><br>
 
 
 <h2>Tools</h2>
