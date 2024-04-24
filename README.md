@@ -11,15 +11,12 @@
    ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret681&theme=dark&hide_border=false&layout=compact)
 
 <h2>👨‍💻MY Skills</h2>
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt=MySQL" width="60" height="60">
 
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
-  </a>
-
-<h2>My Tools</h2>
+<h2>Tools</h2>
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" alt="IntelliJ" width="60" height="60">
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=darkmode)](https://github.com/Secret681/github-widgetbox)
+
+
 
 <h2>👀MY Certificate</h2>
 <ul>
