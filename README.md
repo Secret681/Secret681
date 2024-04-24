@@ -18,7 +18,7 @@
   </a>
 
 <h2>My Tools</h2>
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg"
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" alt="IntelliJ" width="60" height="60">
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=darkmode)](https://github.com/Secret681/github-widgetbox)
 
 <h2>👀MY Certificate</h2>
