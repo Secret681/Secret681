@@ -22,8 +22,10 @@
 
 
 <h2>Tools</h2>
+<p align='left'>
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" alt="IntelliJ" width="60" height="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/text%20editors/vscode.svg" alt="VSCode" width="60" height="60"
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/text%20editors/vscode.svg" alt="VSCode" width="60" height="60">
+</p>
 
 
 
