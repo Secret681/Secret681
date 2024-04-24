@@ -33,7 +33,8 @@
 
 스테가노그래피 기법을 활용하여 이미지 내부에 문자를 숨기는 암호화 방식과<br>
 그것을 다시 복호화하여 숨겨놓았던 메세지를 보여주는 복호화 방식을 제작하였습니다.</p>
-<a href="https://github.com/Secret681/Encoding-Steganography"></a>
+<a href="https://github.com/Secret681/Encoding-Steganography">
+  ![image-1](https://github.com/Secret681/Secret681/assets/128019532/48285a0b-1b8e-4fba-b2f6-1d0bf95e77d3)
 
 </ul>
 
