@@ -39,7 +39,7 @@
 
 특정 키보드 문자를 누를 때마다 바뀌는 화이트모드와 다크모드를 제작하였습니다.</p>
 <a href="https://github.com/Secret681"></a>
-    ![127 0 0 1_5500_Darkmode html - Chrome 2024-04-24 23-02-11](https://github.com/bablubambal/All_logo_and_pictures/assets/128019532/cd7b16fd-7f4a-4222-ac3f-36bdedf68c84)
+    ![127 0 0 1_5500_Darkmode html - Chrome 2024-04-24 23-02-11 (1)](https://github.com/Secret681/Secret681/assets/128019532/cb6cb1f0-7fc5-40f6-9e25-3e822d8bf296)
   <li>스테가노그래피 파이썬 구현</li>
   <p style=letter-spacing :0.5px; or 0.05em>
 
