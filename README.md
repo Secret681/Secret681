@@ -16,10 +16,11 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=darkmode)](https://github.com/Secret681/github-widgetbox)
 
-<h2>📝MY Certificate</h2>
+<h2>👀MY Certificate</h2>
 1. AWS Certified Cloud Practitioner<br>
 2. 정보처리기능사<br>
 
 <h2>🎁개인 프로젝트</h2>
-<h4></h4>
+<h4>다크모드 설정</h4>
+  <img src=""
 
