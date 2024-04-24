@@ -28,6 +28,13 @@
 특정 키보드 문자를 누를 때마다 바뀌는 화이트모드와 다크모드를 제작하였습니다.</p>
 <a href="https://github.com/Secret681">
     <img src = "" width="300"/>
+  <li>스테가노그래피 파이썬 구현</li>
+  <p style=letter-spacing :0.5px; or 0.05em>
+
+스테가노그래피 기법을 활용하여 이미지 내부에 문자를 숨기는 암호화 방식과<br>
+그것을 다시 복호화하여 숨겨놓았던 메세지를 보여주는 복호화 방식을 제작하였습니다.</p>
+<a href="https://github.com/Secret681/Encoding-Steganography">
+
 </ul>
 
 
