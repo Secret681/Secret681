@@ -17,8 +17,12 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=darkmode)](https://github.com/Secret681/github-widgetbox)
 
 <h2>👀MY Certificate</h2>
-1. AWS Certified Cloud Practitioner<br>
-2. 정보처리기능사<br>
+<ul>
+  <ol type="1">
+    <li>정보처리기능사</li>
+    <li>AWS Certified Cloud Practitioner</li>
+  </ol>
+</ul>
 
 <h2>🎁개인 프로젝트</h2>
 <ul>
