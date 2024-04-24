@@ -12,7 +12,7 @@
 
 <h2>👨‍💻MY Skills</h2>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,mysql,git,WebGL&includeNames=true&theme=darkmode)](https://github.com/Secret681/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,mysql,git&includeNames=true&theme=darkmode)](https://github.com/Secret681/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=darkmode)](https://github.com/Secret681/github-widgetbox)
 
