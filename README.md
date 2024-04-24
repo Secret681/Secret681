@@ -39,14 +39,14 @@
 
 특정 키보드 문자를 누를 때마다 바뀌는 화이트모드와 다크모드를 제작하였습니다.</p>
 <a href="https://github.com/Secret681"></a>
-    <img src = "" width="300"/><br>
+    ![127 0 0 1_5500_Darkmode html - Chrome 2024-04-24 23-02-11](https://github.com/bablubambal/All_logo_and_pictures/assets/128019532/cd7b16fd-7f4a-4222-ac3f-36bdedf68c84)
   <li>스테가노그래피 파이썬 구현</li>
   <p style=letter-spacing :0.5px; or 0.05em>
 
 스테가노그래피 기법을 활용하여 이미지 내부에 문자를 숨기는 암호화 방식과<br>
 그것을 다시 복호화하여 숨겨놓았던 메세지를 보여주는 복호화 방식을 제작하였습니다.</p>
 <a href="https://github.com/Secret681/Encoding-Steganography">
-  ![image-1](https://github.com/Secret681/Secret681/assets/128019532/48285a0b-1b8e-4fba-b2f6-1d0bf95e77d3)
+  ![제목 없음](https://github.com/Secret681/Secret681/assets/128019532/0be3d31d-39e5-41c5-8dc3-3d7587a87f6a)
 
 </ul>
 
