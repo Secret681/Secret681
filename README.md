@@ -17,6 +17,7 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="HTML" width="60" height="60">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" alt="JavaScript" width="60" height="60">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" alt="Python" width="60" height="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" alt="Java" width="60" height="60">
 </p>
 
 
